@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuhua-333
 - 👀 I’m interested in JAVA
-- 🌱 I’m currently learning Website construction
-- 💞️ I’m looking to collaborate on Website construction
+- 🌱 I’m currently learning Website construction 
+- 💞️ I’m looking to collaborate on Website construction and do something interesting functions
 - 📫 How to reach me ... 1048654477@qq.com
 
 <!---
